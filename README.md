@@ -46,7 +46,7 @@ Run project
       
  
 Video link Run local
-      https://www.loom.com/share/5b2c2d06825845729981f708f237c36a
+     https://1drv.ms/v/s!Ap2u4mvCZvk0zxRS7xK4TWKlmMe2?e=qnEOVU
 
 Video link Run browserstack invitation to join the project or please share your email
 https://accounts.browserstack.com/jointeam/bbfd635bbe95aced73d5c71de1e305db
